@@ -60,7 +60,7 @@ Feel free to reach out to say hi:
 - [![Gmail Badge](https://img.shields.io/badge/-g.murro23@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:g.murro23@gmail.com "Connect via Email")
 - [![Telegram Badge](https://img.shields.io/badge/-@giuseppemurro-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/giuseppemurro "Contact on Telegram")
 - [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/giuseppemurro6/ "Connect on Facebook")
-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/qr/SE7YYDYPOA5BN1?text=Hi!)
+- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/393409584750?text=Hi!)
 
 
 ![quote](quotes.png)
