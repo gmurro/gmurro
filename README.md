@@ -63,9 +63,7 @@ Feel free to reach out to say hi:
 - [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/qr/SE7YYDYPOA5BN1?text=Hi!)
 
 
-![quote](quote.png)
-
-<div style="font-family:Ubuntu Mono; font-size:18px;">Prova</div>
+![quote](quotes.png)
 
 
 <!--
