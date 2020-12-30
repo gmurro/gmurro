@@ -18,7 +18,7 @@
 
 
 
-![descriptor](descriptor.gif)
+![descriptor](gif.gif)
 
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
