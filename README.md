@@ -30,7 +30,7 @@
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="Android" height="25" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"></code>
+  <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
   <code><img title="Firebase" height="25" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
   <code><img title="Linux" height="25" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
