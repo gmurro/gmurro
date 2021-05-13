@@ -65,10 +65,6 @@ Feel free to reach out to say hi:
 - [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/393409584750?text=Hi!)
 
 
-::if ctx.theme == “dark”
-![Logo](https://images.photowall.com/products/65791/world-of-animals-map.jpg?h=699&q=85)
-::else
-![Logo](https://miro.medium.com/max/11520/0*pAypSD1ZSCCw0NcL)
 ![quote](quotes.png)
 
 
